@@ -1,6 +1,6 @@
 import { IconPlay } from './Icons';
 
-const VIDEO_URL = '';
+const VIDEO_URL = 'https://youtu.be/r06KiTgo7-Q';
 
 function toEmbed(url: string): string | null {
   if (!url) return null;
