@@ -45,15 +45,13 @@ export default function App() {
 
       <section className="lp-why">
         <div className="lp-col">
-          <h2>Why this matters</h2>
-          <p className="lp-stat">
-            $1.1M settlement<span className="sep">&middot;</span>481 violations
-            <span className="sep">&middot;</span>8 months of silent failure
-          </p>
+          <h2>Logs aren&rsquo;t evidence.</h2>
+          <p className="lp-stat">When a regulator asks two years later.</p>
           <p className="lp-note">
-            OFAC v. TradeStation Securities (March 17, 2026). Their sanctions screening worked.
-            Their geo-blocking didn&rsquo;t, and nobody knew. AgentMarshal makes that gap
-            structurally impossible &mdash; because the receipts never stop coming.
+            AI agents are making decisions that touch money, risk, and compliance
+            &mdash; at machine speed. Most agent stacks produce logs. Reconstruction
+            isn&rsquo;t proof. AgentMarshal makes silent control failure structurally
+            impossible &mdash; because the receipts never stop coming.
           </p>
         </div>
       </section>
