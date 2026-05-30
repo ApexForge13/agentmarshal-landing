@@ -10,7 +10,7 @@ export default function App() {
           <div className="lp-wordmark">AgentMarshal</div>
 
           <h1 className="lp-tagline">
-            Verdict gives you a verdict. AgentMarshal gives you the receipt that proves it.
+            AgentMarshal gives you the receipt that proves what your agent knew when it decided.
           </h1>
 
           <p className="lp-subtagline">
@@ -19,7 +19,7 @@ export default function App() {
 
           <p className="lp-body">
             AgentMarshal governs what an autonomous AI agent is allowed to do, and on every
-            decision emits a cryptographically signed, externally timestamped Compliance Receipt
+            decision emits a cryptographically signed, externally timestamped receipt
             that anyone can verify without trusting AgentMarshal at all. Every action and every
             refusal becomes evidence.
           </p>
